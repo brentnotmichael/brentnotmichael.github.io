@@ -1,4 +1,9 @@
 body {
-    font-size: 2em;
+    font-size: 14pt;
     color: blue;
+}
+
+h1 {
+    font-size: 30pt;
+    color:darkslategrey;
 }
