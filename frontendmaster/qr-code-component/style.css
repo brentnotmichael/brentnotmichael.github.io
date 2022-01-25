@@ -46,7 +46,7 @@ body {
     background: var(--light-gray);
 }
 
-div.qr-card {
+.qr-card {
     width: 320px;
     background: var(--white);
     margin: auto;
@@ -75,5 +75,5 @@ div.qr-card {
 .qr-card > p {
     font-size: 1em;
     color: var(--grayish-blue);
-    margin-bottom: 2rem;
+    padding-bottom: 2rem;
 }
