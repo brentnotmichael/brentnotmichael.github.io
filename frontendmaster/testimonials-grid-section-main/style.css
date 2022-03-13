@@ -79,7 +79,6 @@ article.testimonial {
     display: grid;
     width: 325px;
     height: 100%;
-    box-shadow: 0 0 1em black;
 }
 
 article.testimonial p {
